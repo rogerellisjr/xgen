@@ -1,0 +1,11 @@
+[
+    { "Type": "All", "Left": "FIELD(ID_CODE).value", "Right": "FIELD(ID_CODE_PL).value+'_{SupplierName}'" },
+
+    { "Type": "All", "Left": "FIELD(PRICE_ID_{ArticleName}).value", "Right": "FIELD(ID_CODE).value" },
+
+    { "Type": "All", "Left": "FIELD(articleName).value", "Right": "{SupplierName}" },
+
+    { "Type": "Wall1D|Wall|BlindWall|DCWall|GlassWall|GDCWall|DCWall|OpenWall|SpecialAcc", "Left": "FIELD(WC_INSERTION_HEIGHT).value", "Right": "FIELD(UPPERS_INSERTION_HEIGHT).value" },
+
+    { "Type": "Fillers|Panels", "Left": "FIELD(WC_INSERTION_HEIGHT).value", "Right": "FIELD(LOWERS_INSERTION_HEIGHT).value" }
+]

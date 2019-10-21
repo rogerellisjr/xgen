@@ -1,0 +1,12 @@
+[
+    {
+		"Type": "all",
+		"Section": "Definition",
+		"Body": "<EDITBOX name=\"PRICE_ID_{ArticleName}\" label=\"PRICE_ID_{ArticleName}\" active=\"TRUE\" visible=\"FALSE\" locked=\"TRUE\" valuetype=\"TEXT\" default=\"{ArticleName}\" />"
+    },
+    {
+		"Type": "all",
+		"Section": "Definition",
+		"Body": "<EDITBOX name=\"PRICE_CAT_{ArticleName}\" label=\"PRICE_CAT_{ArticleName}\" active=\"TRUE\" visible=\"FALSE\" locked=\"TRUE\" valuetype=\"TEXT\" default=\"\" />"
+	}
+]

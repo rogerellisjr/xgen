@@ -1,0 +1,6 @@
+[
+    {"type":"All","name":"ID_CODE"} ,
+    {"type":"All","name":"ID_CODE_PL"} ,
+    {"type":"All","name":"PRICE_ID_{ArticleName}"} ,
+    {"type":"All","name":"Price_CAT_{ArticleName}"} 
+]

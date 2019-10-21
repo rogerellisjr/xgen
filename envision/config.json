@@ -1,0 +1,11 @@
+{
+    "catalogName": "Cultured Marble", 
+    "catalogImage": "img/CMT/",
+    "catalogOutputPath": "W:/Library/XML/catalog",
+    "catalogTooltip": "",
+    "catalogGlobal": "",
+    "catalogGlobalChange": "",
+    "articleImagePath": "img/CMT/",
+    "articleOutputPath": "W:/Library/XML",
+    "jsonFilePath": "./cultured_marble"
+}

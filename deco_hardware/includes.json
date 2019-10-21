@@ -1,0 +1,4 @@
+[
+    {"type":"hardware",     "category":"definition",    "file":"INC_DECO_HARDWARE.xml",  "part":"PART_HARDWARE"},
+    {"type":"hardware",     "category":"definition",    "file":"INC_DECO_HARDWARE.xml",  "part":"PART_ID_CODE" }
+]

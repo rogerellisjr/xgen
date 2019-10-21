@@ -1,0 +1,28 @@
+[
+    { "Type": "All:Accessories",                                                                          "Name": "WC_CASE_COLOR"              },
+	{ "Type": "All:SpecialAcc|Accessories|Fillers|Panels",                                                "Name": "WC_DOOR_STYLE"              },
+    { "Type": "All:SpecialAcc|Accessories|Fillers|Panels",                                                "Name": "Pull_Door"                  },
+    { "Type": "All:DrawerBase|SpecialAcc|Accessories|Fillers|Panels",                                     "Name": "Pull_D_Position"            },
+    { "Type": "All:DrawerBase|SpecialAcc|Accessories|Fillers|Panels",                                     "Name": "Pull_D2_Position"           },
+    { "Type": "All:SpecialAcc|Accessories|Fillers|Panels",                                                "Name": "Pull_Rotation"              },
+    { "Type": "All:SpecialAcc|Accessories|Fillers|Panels",                                                "Name": "WC_HINGE_POSITION"          },
+    { "Type": "Drawer|DrawerBase|BaseDrawer|BlindBase|Vanity|Oven",                                       "Name": "Pull_Drawer"                },
+    { "Type": "Drawer|DrawerBase|BaseDrawer|BlindBase|Vanity|Oven",                                       "Name": "Pull_DR_Position"           },
+    { "Type": "BlindBase|BlindWall",                                                                      "Name": "WC_Blind_Settings"          },
+    { "Type": "BlindBase|BlindWall",                                                                      "Name": "BC_Pull_Left"               },
+    { "Type": "BlindBase|BlindWall",                                                                      "Name": "BC_Pull_Right"              },
+    { "Type": "All",                                                                                      "Name": "ID_CODE"                    },
+    { "Type": "All",                                                                                      "Name": "ID_CODE_PL"                 },
+    { "Type": "Fillers|Panels|Accessories",                                                               "Name": "PRICE_PL"                   },
+    { "Type": "All",                                                                                      "Name": "PRICE_ID_WC_{SupplierName}" },
+    { "Type": "All",                                                                                      "Name": "Price_CAT_WC_{SupplierName}"},
+    { "Type": "Fillers|Panels|Wall1D|Wall|BlindWall|DCWall|GlassWall|GDCWall|DCWall|SpecialAcc|OpenWall", "Name": "WC_INSERTION_HEIGHT"        },
+    { "Type": "Fillers|Panels|Rpanels|GDCWall|DCWall|LazySusan",                                          "Name": "Article_D"                  },
+    { "Type": "Fillers|Panels|Rpanels|GDCWall|DCWall|LazySusan|VDT36",                                    "Name": "Article_W"                  },
+    { "Type": "Fillers|Panels|Rpanels|GDCWall|DCWall|LazySusan|VDT36",                                    "Name": "Article_H"                  },
+    { "Type": "Panels|Rpanels",                                                                           "Name": "DISHWASHER_PANEL"           },
+    { "Type": "Panels",                                                                                   "Name": "WC_Panels"                  },
+    { "Type": "All",                                                                                      "Name": "articleName"                },
+    { "Type": "Fillers",                                                                                  "Name": "PLAN_LAYER"                 }
+]
+

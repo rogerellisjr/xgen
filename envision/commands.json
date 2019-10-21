@@ -1,0 +1,7 @@
+[
+    {
+        "type": "All",
+        "left": "FIELD(ID_CODE).value",
+        "right": "FIELD(ID_CODE_PL).value+'{ArticleName}'"
+    }
+]

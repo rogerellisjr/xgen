@@ -1,0 +1,11 @@
+{
+    "catalogName": "Deco Hardware", 
+    "catalogImage": "/img/deco_hardware/",
+    "catalogOutputPath": "W:/Library/XML/catalog",
+    "catalogTooltip": "",
+    "catalogGlobal": "",
+    "catalogGlobalChange": "",
+    "articleImagePath": "/img/deco_hardware/",
+    "articleOutputPath": "W:/Library/XML",
+    "jsonFilePath": "./deco_hardware"
+}

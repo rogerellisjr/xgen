@@ -1,0 +1,13 @@
+[
+    {"type":"All","name":"ID_CODE"} ,
+    {"type":"All","name":"ID_CODE_PL"} ,
+    {"type":"All","name":"PRICE_ID_{ArticleName}"} ,
+    {"type":"All","name":"Price_CAT_{ArticleName}"} ,
+    {"type":"All","name":"CMT_Depth"} ,
+    {"type":"All","name":"CMT_Width"} ,
+    {"type":"All","name":"CMT_L_ES"} ,
+    {"type":"All","name":"CMT_R_ES"} ,
+    {"type":"All","name":"CMT_Article"} ,
+    {"type":"All","name":"CMT_Color"} ,
+    {"type":"All","name":"CMT_IS "}
+]

@@ -1,0 +1,1 @@
+xgen gen --path ./wolf_classic

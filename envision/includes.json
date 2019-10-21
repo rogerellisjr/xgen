@@ -1,0 +1,10 @@
+[
+    {"type":"CMT|Wave|Bconfig",     "category":"definition",    "file":"INC_CULTURED_MARBLE.xml","part":"PART_CMT"} ,
+    {"type":"CMT|Wave|Bconfig",     "category":"definition",    "file":"INC_CULTURED_MARBLE.xml","part":"PART_{ArticleName}"} ,
+    {"type":"CMT|Wave|Bconfig",     "category":"definition",    "file":"INC_CULTURED_MARBLE.xml","part":"PART_ID_CODE"} ,
+    {"type":"Wave|Bconfig",         "category":"logic",         "file":"INC_CULTURED_MARBLE.xml","part":"PART_WAVE"} ,
+    {"type":"Bconfig",              "category":"logic",         "file":"INC_CULTURED_MARBLE.xml","part":"PART_BCONFIG"} ,
+    {"type":"CMT|Wave|Bconfig",     "category":"definition",    "file":"INC_CULTURED_MARBLE.xml","part":"PART_SHOW_ART"} ,
+    {"type":"CMT|Wave|Bconfig",     "category":"logic",         "file":"INC_CULTURED_MARBLE.xml","part":"PART_SHOW_ART_LOGIC"}
+    
+]

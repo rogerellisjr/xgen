@@ -1,0 +1,58 @@
+[
+    {"name": "Walls",
+        "sub": [
+            {"name": "12in High"},
+            {"name": "15in High"},
+            {"name": "18in High"},
+            {"name": "24in High"},
+            {"name": "30in High"},
+            {"name": "36in High"},
+            {"name": "42in High"},
+            {"name": "Refrigerator"},
+            {"name": "Doors Prepped for Glass"},
+            {"name": "Diagonal Corner Prepped for Glass"},
+            {"name": "Wall End"},
+            {"name": "Diagonal Corner"},
+            {"name": "Wall Corner"}
+        ]
+    },
+    {"name": "Bases",
+        "sub": [
+            {"name": "Base"},
+            {"name": "Base Corner"},
+            {"name": "Susan Base"},
+            {"name": "Sink Base"},
+            {"name": "Corner Sink Base"},
+            {"name": "Three Drawer Base"}
+        ]
+    },
+    {"name": "Tall",
+    "sub": [
+        {"name": "Utility"},
+        {"name": "Oven"}
+
+        ]
+    },
+    {"name": "Vanity",
+        "sub": [
+            {"name": "Vanity Sink Base"},
+            {"name": "Vanity Drawer Base"},
+            {"name": "Vanity Combo"},
+            {"name": "Vanity Base"},
+            {"name": "Vanity Drawer"},
+            {"name": "Linen" },
+            {"name": "Medicine Cabinet" }
+        ]
+    },
+    {"name": "Filler and Panels",
+        "sub": [
+            {"name": "Valence"},
+            {"name": "Standard Filler"},
+            {"name": "Fluted Filler"},
+            {"name": "Decorative End Panels"},
+            {"name": "Panels"}
+        ]
+
+    },
+    {"name": "Generic Accessories"}
+]

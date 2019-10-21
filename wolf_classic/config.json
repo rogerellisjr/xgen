@@ -1,0 +1,10 @@
+{
+    "catalogName":         "Wolf Classic",
+    "catalogImagePath":    "img/catalog/wolf_classic.jpg",
+    "catalogOutputPath":   "W:/Library/XML/catalog",
+    "catalogTooltip":      "Wolf_Classic_tooltips",
+    "catalogGlobal":       "Wolf_Classic",
+    "catalogGlobalChange": "Wolf_Classic_Global_Change",
+    "articleImagePath":    "img/wolf/articles",
+    "articleOutputPath":   "W:/Library/XML"
+}
